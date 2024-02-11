@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# This is a placeholder executable 
+# that will simply return exit 0 
+# to satisfy a check during ansible-builder
+
+exit 0
